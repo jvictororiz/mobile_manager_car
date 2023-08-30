@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>541652343600-dctjr8eu84b31mh6juvjfi3mmrakd4ts.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.541652343600-dctjr8eu84b31mh6juvjfi3mmrakd4ts</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAzY-UAKU_7jfYpcK74IN3EHir_q7eanjw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>541652343600</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>br.com.joaov.mobileManagerCar</string>
+	<key>PROJECT_ID</key>
+	<string>rent-car-8c572</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rent-car-8c572.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:541652343600:ios:412adfac301cb74b40c6f5</string>
+	<key>DATABASE_URL</key>
+	<string>https://rent-car-8c572-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

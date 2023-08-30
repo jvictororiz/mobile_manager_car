@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "541652343600",
+    "project_id": "rent-car-8c572",
+    "storage_bucket": "rent-car-8c572.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541652343600:android:3a5218b07556216240c6f5",
+        "android_client_info": {
+          "package_name": "br.com.joaov.mobile_manager_car"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541652343600-g006a9ded85c6c9sfibqb8v0js90q36l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4xEshbgvurLxA-D6vLWXDjWkzdzGIZjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541652343600-g006a9ded85c6c9sfibqb8v0js90q36l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
